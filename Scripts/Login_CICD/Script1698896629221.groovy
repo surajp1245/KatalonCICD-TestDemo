@@ -36,5 +36,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Login_CICD/Page_Dem
 
 WebUI.click(findTestObject('Object Repository/Login_CICD/Page_Demo Web Shop/a_Log out'))
 
-WebUI.closeBrowser()
+WebUI.closeBrowser()   
 
