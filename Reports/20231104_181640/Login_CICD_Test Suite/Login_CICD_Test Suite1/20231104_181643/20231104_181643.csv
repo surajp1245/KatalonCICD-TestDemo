@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login_CICD_Test Suite1,,,,2023-11-04 18:17:01,2023-11-04 18:17:14,13.036s,FAILED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test1,,,,2023-11-04 18:17:02,2023-11-04 18:17:08,6.035s,FAILED
+"openBrowser("""")",,,,2023-11-04 18:17:02,2023-11-04 18:17:08,5.417s,FAILED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test2,,,,2023-11-04 18:17:08,2023-11-04 18:17:11,2.850s,FAILED
+"openBrowser("""")",,,,2023-11-04 18:17:08,2023-11-04 18:17:11,2.456s,FAILED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test3,,,,2023-11-04 18:17:11,2023-11-04 18:17:14,3.569s,FAILED
+"openBrowser("""")",,,,2023-11-04 18:17:11,2023-11-04 18:17:14,3.060s,FAILED

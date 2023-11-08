@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login_CICD</name>
+   <name>Login_CICD_Test1</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>cf540d30-d040-42da-adfc-a8a000a562c3</testCaseGuid>

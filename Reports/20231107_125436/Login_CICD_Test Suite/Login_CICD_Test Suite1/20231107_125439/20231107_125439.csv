@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login_CICD_Test Suite1,Chrome 119.0.0.0,,,2023-11-07 12:54:52,2023-11-07 12:55:43,51.467s,PASSED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test1,Chrome 119.0.0.0,,,2023-11-07 12:54:52,2023-11-07 12:55:15,23.031s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-07 12:54:53,2023-11-07 12:55:05,11.910s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-07 12:55:05,2023-11-07 12:55:05,0.164s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Chrome 119.0.0.0,,,2023-11-07 12:55:05,2023-11-07 12:55:08,2.835s,PASSED
+"executeJavaScript(""window.scrollTo(0, document.body.scrollHeight)"", null)",Chrome 119.0.0.0,,,2023-11-07 12:55:08,2023-11-07 12:55:08,0.073s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log in""))",Chrome 119.0.0.0,,,2023-11-07 12:55:08,2023-11-07 12:55:09,0.953s,PASSED
+"setText(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Email_Email""), ""suraj1234@gmail.com"")",Chrome 119.0.0.0,,,2023-11-07 12:55:09,2023-11-07 12:55:10,0.753s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Password_Password""), ""cvW8qx4B2o1WegCEDy41Xg=="")",Chrome 119.0.0.0,,,2023-11-07 12:55:10,2023-11-07 12:55:10,0.477s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button""))",Chrome 119.0.0.0,,,2023-11-07 12:55:10,2023-11-07 12:55:12,1.955s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_suraj1234gmail.com""), 0)",Chrome 119.0.0.0,,,2023-11-07 12:55:12,2023-11-07 12:55:13,0.530s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log out""))",Chrome 119.0.0.0,,,2023-11-07 12:55:13,2023-11-07 12:55:14,1.388s,PASSED
+"executeJavaScript(""window.scrollTo(0, document.body.scrollHeight)"", null)",Chrome 119.0.0.0,,,2023-11-07 12:55:14,2023-11-07 12:55:14,0.018s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-07 12:55:14,2023-11-07 12:55:15,1.294s,PASSED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test2,Chrome 119.0.0.0,,,2023-11-07 12:55:15,2023-11-07 12:55:29,14.199s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-07 12:55:16,2023-11-07 12:55:19,3.838s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-07 12:55:19,2023-11-07 12:55:19,0.128s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Chrome 119.0.0.0,,,2023-11-07 12:55:19,2023-11-07 12:55:22,2.752s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log in""))",Chrome 119.0.0.0,,,2023-11-07 12:55:22,2023-11-07 12:55:24,1.616s,PASSED
+"setText(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Email_Email""), ""suraj1234@gmail.com"")",Chrome 119.0.0.0,,,2023-11-07 12:55:24,2023-11-07 12:55:25,0.647s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Password_Password""), ""cvW8qx4B2o1WegCEDy41Xg=="")",Chrome 119.0.0.0,,,2023-11-07 12:55:25,2023-11-07 12:55:25,0.397s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button""))",Chrome 119.0.0.0,,,2023-11-07 12:55:25,2023-11-07 12:55:26,1.333s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_suraj1234gmail.com""), 0)",Chrome 119.0.0.0,,,2023-11-07 12:55:26,2023-11-07 12:55:27,0.511s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log out""))",Chrome 119.0.0.0,,,2023-11-07 12:55:27,2023-11-07 12:55:28,1.381s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-07 12:55:28,2023-11-07 12:55:29,1.312s,PASSED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test3,Chrome 119.0.0.0,,,2023-11-07 12:55:29,2023-11-07 12:55:43,13.740s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-07 12:55:30,2023-11-07 12:55:34,3.876s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-07 12:55:34,2023-11-07 12:55:34,0.121s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Chrome 119.0.0.0,,,2023-11-07 12:55:34,2023-11-07 12:55:37,2.881s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log in""))",Chrome 119.0.0.0,,,2023-11-07 12:55:37,2023-11-07 12:55:38,0.931s,PASSED
+"setText(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Email_Email""), ""suraj1234@gmail.com"")",Chrome 119.0.0.0,,,2023-11-07 12:55:38,2023-11-07 12:55:38,0.697s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Password_Password""), ""cvW8qx4B2o1WegCEDy41Xg=="")",Chrome 119.0.0.0,,,2023-11-07 12:55:38,2023-11-07 12:55:39,0.432s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button""))",Chrome 119.0.0.0,,,2023-11-07 12:55:39,2023-11-07 12:55:40,1.274s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_suraj1234gmail.com""), 0)",Chrome 119.0.0.0,,,2023-11-07 12:55:40,2023-11-07 12:55:40,0.570s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log out""))",Chrome 119.0.0.0,,,2023-11-07 12:55:40,2023-11-07 12:55:42,1.086s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-07 12:55:42,2023-11-07 12:55:43,1.612s,PASSED

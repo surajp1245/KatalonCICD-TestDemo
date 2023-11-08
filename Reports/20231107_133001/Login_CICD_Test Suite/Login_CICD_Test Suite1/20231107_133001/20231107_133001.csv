@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login_CICD_Test Suite1,,,,2023-11-07 13:30:10,2023-11-07 13:31:54,1m - 43.735s,FAILED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test1,,,,2023-11-07 13:30:45,2023-11-07 13:30:52,6.739s,FAILED
+"openBrowser("""")",,,,2023-11-07 13:30:45,2023-11-07 13:30:49,3.681s,PASSED
+maximizeWindow(),,,,2023-11-07 13:30:49,2023-11-07 13:30:49,0.136s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",,,,2023-11-07 13:30:49,2023-11-07 13:30:52,2.395s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log in""))",,,,2023-11-07 13:30:52,2023-11-07 13:30:52,0.503s,FAILED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test2,,,,2023-11-07 13:31:13,2023-11-07 13:31:26,12.769s,FAILED
+"openBrowser("""")",,,,2023-11-07 13:31:13,2023-11-07 13:31:17,3.946s,PASSED
+maximizeWindow(),,,,2023-11-07 13:31:17,2023-11-07 13:31:17,0.136s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",,,,2023-11-07 13:31:17,2023-11-07 13:31:25,8.123s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log in""))",,,,2023-11-07 13:31:25,2023-11-07 13:31:26,0.552s,FAILED
+,,,,,,,
+Test Cases/Login_CICD/Login_CICD_Test3,,,,2023-11-07 13:31:47,2023-11-07 13:31:54,6.947s,FAILED
+"openBrowser("""")",,,,2023-11-07 13:31:47,2023-11-07 13:31:51,3.862s,PASSED
+maximizeWindow(),,,,2023-11-07 13:31:51,2023-11-07 13:31:51,0.133s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",,,,2023-11-07 13:31:51,2023-11-07 13:31:53,2.452s,PASSED
+"click(findTestObject(""Object Repository/Login_CICD/Page_Demo Web Shop/a_Log in""))",,,,2023-11-07 13:31:53,2023-11-07 13:31:54,0.489s,FAILED
